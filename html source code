@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>CSS Zilla</title>
+		<meta name="description" content="Responsive CSS Timeline with 3D Effect" />
+		<meta name="keywords" content="css zilla, easy css tricks, css3 basics, css help, 3D Timeline example - CSSZilla " />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script src="js/modernizr.custom.63321.js"></script>
+		<!--[if lte IE 7]><style>.support-note .note-ie{display:block;}</style><![endif]-->
+	</head>
+	<body>
+		
+        <div class="container">	
+
+			
+			
+			<header class="clearfix">
+			
+				<h2>CSS Zilla<span>CSS innovation simplified</span></h2>
+				<div class="support-note">
+					<span class="note-ie">Sorry, only modern browsers.</span>
+				</div>
+				
+			</header>
+			
+			<section class="main">
+
+				<ul class="timeline">
+
+					<li class="event">
+						<input type="radio" name="tl-group" checked/>
+						<label></label>
+						<div class="thumb user-4"><span>19 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+									<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-6"><span>18 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+                                        <h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-3"><span>17 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+									<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-5"><span>16 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+									<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-2"><span>15 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+									<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-7"><span>14 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+									<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-1"><span>13 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+								<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="event">
+						<input type="radio" name="tl-group"/>
+						<label></label>
+						<div class="thumb user-8"><span>12 Nov</span></div>
+						<div class="content-perspective">
+							<div class="content">
+								<div class="content-inner">
+									<h3>Css zilla</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.css zilla, easy css tricks, css3 basics, css help - CSSZilla</p>
+								</div>
+							</div>
+						</div>
+					</li>
+					
+				</ul>
+			</section>
+
+		</div><!-- /container -->
+
+	</body>
+</html>
